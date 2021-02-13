@@ -4,6 +4,8 @@ My own solutions to the [CSES Problem Set](https://cses.fi/problemset/)
 
 My account on CSES: https://cses.fi/user/15196
 
+Feel free to ask (by creating issues) if you don't understand my solutions.
+
 ### Introductory Problems
 
 | Name                                                           | Solution                    |
@@ -73,65 +75,65 @@ My account on CSES: https://cses.fi/user/15196
 | Name                                                            | Solution                    |
 | --------------------------------------------------------------- | --------------------------- |
 | [Dice Combinations](https://cses.fi/problemset/task/1633/)      | [1633.cpp](./sols/1633.cpp) |
-| [Minimizing Coins](https://cses.fi/problemset/task/1634/)       |                             |
-| [Coin Combinations I](https://cses.fi/problemset/task/1635/)    |                             |
-| [Coin Combinations II](https://cses.fi/problemset/task/1636/)   |                             |
-| [Removing Digits](https://cses.fi/problemset/task/1637/)        |                             |
+| [Minimizing Coins](https://cses.fi/problemset/task/1634/)       | [1634.cpp](./sols/1634.cpp) |
+| [Coin Combinations I](https://cses.fi/problemset/task/1635/)    | [1635.cpp](./sols/1635.cpp) |
+| [Coin Combinations II](https://cses.fi/problemset/task/1636/)   | [1636.cpp](./sols/1636.cpp) |
+| [Removing Digits](https://cses.fi/problemset/task/1637/)        | [1637.cpp](./sols/1637.cpp) |
 | [Grid Paths](https://cses.fi/problemset/task/1638/)             | [1638.cpp](./sols/1638.cpp) |
-| [Book Shop](https://cses.fi/problemset/task/1158/)              |                             |
-| [Array Description](https://cses.fi/problemset/task/1746/)      |                             |
+| [Book Shop](https://cses.fi/problemset/task/1158/)              | [1158.cpp](./sols/1158.cpp) |
+| [Array Description](https://cses.fi/problemset/task/1746/)      | [1746.cpp](./sols/1746.cpp) |
 | [Counting Towers](https://cses.fi/problemset/task/2413/)        |                             |
 | [Edit Distance](https://cses.fi/problemset/task/1639/)          |                             |
 | [Rectangle Cutting](https://cses.fi/problemset/task/1744/)      |                             |
 | [Money Sums](https://cses.fi/problemset/task/1745/)             |                             |
 | [Removal Game](https://cses.fi/problemset/task/1097/)           |                             |
 | [Two Sets II](https://cses.fi/problemset/task/1093/)            | [1093.cpp](./sols/1093.cpp) |
-| [Increasing Subsequence](https://cses.fi/problemset/task/1145/) |                             |
-| [Projects](https://cses.fi/problemset/task/1140/)               |                             |
-| [Elevator Rides](https://cses.fi/problemset/task/1653/)         |                             |
+| [Increasing Subsequence](https://cses.fi/problemset/task/1145/) | [1145.cpp](./sols/1145.cpp) |
+| [Projects](https://cses.fi/problemset/task/1140/)               | [1140.cpp](./sols/1140.cpp) |
+| [Elevator Rides](https://cses.fi/problemset/task/1653/)         | [1653.cpp](./sols/1653.cpp) |
 | [Counting Tilings](https://cses.fi/problemset/task/2181/)       |                             |
 | [Counting Numbers](https://cses.fi/problemset/task/2220/)       |                             |
 
 ### Graph Algorithms
 
-| Name                                                          | Solution |
-| ------------------------------------------------------------- | -------- |
-| [Counting Rooms](https://cses.fi/problemset/task/1192/)       |          |
-| [Labyrinth](https://cses.fi/problemset/task/1193/)            |          |
-| [Building Roads](https://cses.fi/problemset/task/1666/)       |          |
-| [Message Route](https://cses.fi/problemset/task/1667/)        |          |
-| [Building Teams](https://cses.fi/problemset/task/1668/)       |          |
-| [Round Trip](https://cses.fi/problemset/task/1669/)           |          |
-| [Monsters](https://cses.fi/problemset/task/1194/)             |          |
-| [Shortest Routes I](https://cses.fi/problemset/task/1671/)    |          |
-| [Shortest Routes II](https://cses.fi/problemset/task/1672/)   |          |
-| [High Score](https://cses.fi/problemset/task/1673/)           |          |
-| [Flight Discount](https://cses.fi/problemset/task/1195/)      |          |
-| [Cycle Finding](https://cses.fi/problemset/task/1197/)        |          |
-| [Flight Routes](https://cses.fi/problemset/task/1196/)        |          |
-| [Round Trip II](https://cses.fi/problemset/task/1678/)        |          |
-| [Course Schedule](https://cses.fi/problemset/task/1679/)      |          |
-| [Longest Flight Route](https://cses.fi/problemset/task/1680/) |          |
-| [Game Routes](https://cses.fi/problemset/task/1681/)          |          |
-| [Investigation](https://cses.fi/problemset/task/1202/)        |          |
-| [Planets Queries I](https://cses.fi/problemset/task/1750/)    |          |
-| [Planets Queries II](https://cses.fi/problemset/task/1160/)   |          |
-| [Planets Cycles](https://cses.fi/problemset/task/1751/)       |          |
-| [Road Reparation](https://cses.fi/problemset/task/1675/)      |          |
-| [Road Construction](https://cses.fi/problemset/task/1676/)    |          |
-| [Flight Routes Check](https://cses.fi/problemset/task/1682/)  |          |
-| [Planets and Kingdoms](https://cses.fi/problemset/task/1683/) |          |
-| [Giant Pizza](https://cses.fi/problemset/task/1684/)          |          |
-| [Coin Collector](https://cses.fi/problemset/task/1686/)       |          |
-| [Mail Delivery](https://cses.fi/problemset/task/1691/)        |          |
-| [De Bruijn Sequence](https://cses.fi/problemset/task/1692/)   |          |
-| [Teleporters Path](https://cses.fi/problemset/task/1693/)     |          |
-| [Hamiltonian Flights](https://cses.fi/problemset/task/1690/)  |          |
-| [Knight's Tour](https://cses.fi/problemset/task/1689/)        |          |
-| [Download Speed](https://cses.fi/problemset/task/1694/)       |          |
-| [Police Chase](https://cses.fi/problemset/task/1695/)         |          |
-| [School Dance](https://cses.fi/problemset/task/1696/)         |          |
-| [Distinct Routes](https://cses.fi/problemset/task/1711/)      |          |
+| Name                                                          | Solution                    |
+| ------------------------------------------------------------- | --------------------------- |
+| [Counting Rooms](https://cses.fi/problemset/task/1192/)       | [1192.cpp](./sols/1192.cpp) |
+| [Labyrinth](https://cses.fi/problemset/task/1193/)            | [1193.cpp](./sols/1193.cpp) |
+| [Building Roads](https://cses.fi/problemset/task/1666/)       |                             |
+| [Message Route](https://cses.fi/problemset/task/1667/)        |                             |
+| [Building Teams](https://cses.fi/problemset/task/1668/)       |                             |
+| [Round Trip](https://cses.fi/problemset/task/1669/)           |                             |
+| [Monsters](https://cses.fi/problemset/task/1194/)             |                             |
+| [Shortest Routes I](https://cses.fi/problemset/task/1671/)    |                             |
+| [Shortest Routes II](https://cses.fi/problemset/task/1672/)   |                             |
+| [High Score](https://cses.fi/problemset/task/1673/)           |                             |
+| [Flight Discount](https://cses.fi/problemset/task/1195/)      |                             |
+| [Cycle Finding](https://cses.fi/problemset/task/1197/)        |                             |
+| [Flight Routes](https://cses.fi/problemset/task/1196/)        |                             |
+| [Round Trip II](https://cses.fi/problemset/task/1678/)        |                             |
+| [Course Schedule](https://cses.fi/problemset/task/1679/)      |                             |
+| [Longest Flight Route](https://cses.fi/problemset/task/1680/) |                             |
+| [Game Routes](https://cses.fi/problemset/task/1681/)          |                             |
+| [Investigation](https://cses.fi/problemset/task/1202/)        |                             |
+| [Planets Queries I](https://cses.fi/problemset/task/1750/)    |                             |
+| [Planets Queries II](https://cses.fi/problemset/task/1160/)   |                             |
+| [Planets Cycles](https://cses.fi/problemset/task/1751/)       |                             |
+| [Road Reparation](https://cses.fi/problemset/task/1675/)      |                             |
+| [Road Construction](https://cses.fi/problemset/task/1676/)    |                             |
+| [Flight Routes Check](https://cses.fi/problemset/task/1682/)  |                             |
+| [Planets and Kingdoms](https://cses.fi/problemset/task/1683/) |                             |
+| [Giant Pizza](https://cses.fi/problemset/task/1684/)          |                             |
+| [Coin Collector](https://cses.fi/problemset/task/1686/)       |                             |
+| [Mail Delivery](https://cses.fi/problemset/task/1691/)        |                             |
+| [De Bruijn Sequence](https://cses.fi/problemset/task/1692/)   |                             |
+| [Teleporters Path](https://cses.fi/problemset/task/1693/)     |                             |
+| [Hamiltonian Flights](https://cses.fi/problemset/task/1690/)  |                             |
+| [Knight's Tour](https://cses.fi/problemset/task/1689/)        |                             |
+| [Download Speed](https://cses.fi/problemset/task/1694/)       |                             |
+| [Police Chase](https://cses.fi/problemset/task/1695/)         |                             |
+| [School Dance](https://cses.fi/problemset/task/1696/)         |                             |
+| [Distinct Routes](https://cses.fi/problemset/task/1711/)      | [1711.cpp](./sols/1711.cpp) |
 
 # Range Queries
 
@@ -144,39 +146,39 @@ My account on CSES: https://cses.fi/user/15196
 | [Range Xor Queries](https://cses.fi/problemset/task/1650/)             | [1650.cpp](./sols/1650.cpp) |
 | [Range Update Queries](https://cses.fi/problemset/task/1651/)          | [1651.cpp](./sols/1651.cpp) |
 | [Forest Queries](https://cses.fi/problemset/task/1652/)                | [1652.cpp](./sols/1652.cpp) |
-| [Hotel Queries](https://cses.fi/problemset/task/1143/)                 |                             |
-| [List Removals](https://cses.fi/problemset/task/1749/)                 |                             |
-| [Salary Queries](https://cses.fi/problemset/task/1144/)                |                             |
-| [Prefix Sum Queries](https://cses.fi/problemset/task/2166/)            |                             |
-| [Pizzeria Queries](https://cses.fi/problemset/task/2206/)              |                             |
-| [Subarray Sum Queries](https://cses.fi/problemset/task/1190/)          |                             |
-| [Distinct Values Queries](https://cses.fi/problemset/task/1734/)       |                             |
+| [Hotel Queries](https://cses.fi/problemset/task/1143/)                 | [1143.cpp](./sols/1143.cpp) |
+| [List Removals](https://cses.fi/problemset/task/1749/)                 | [1749.cpp](./sols/1749.cpp) |
+| [Salary Queries](https://cses.fi/problemset/task/1144/)                | [1144.cpp](./sols/1144.cpp) |
+| [Prefix Sum Queries](https://cses.fi/problemset/task/2166/)            | [2166.cpp](./sols/2166.cpp) |
+| [Pizzeria Queries](https://cses.fi/problemset/task/2206/)              | [2206.cpp](./sols/2206.cpp) |
+| [Subarray Sum Queries](https://cses.fi/problemset/task/1190/)          | [1190.cpp](./sols/1190.cpp) |
+| [Distinct Values Queries](https://cses.fi/problemset/task/1734/)       | [1734.cpp](./sols/1734.cpp) |
 | [Increasing Array Queries](https://cses.fi/problemset/task/2416/)      |                             |
 | [Forest Queries II](https://cses.fi/problemset/task/1739/)             |                             |
-| [Range Updates and Sums](https://cses.fi/problemset/task/1735/)        |                             |
-| [Polynomial Queries](https://cses.fi/problemset/task/1736/)            |                             |
+| [Range Updates and Sums](https://cses.fi/problemset/task/1735/)        | [1735.cpp](./sols/1735.cpp) |
+| [Polynomial Queries](https://cses.fi/problemset/task/1736/)            | [1736.cpp](./sols/1736.cpp) |
 | [Range Queries and Copies](https://cses.fi/problemset/task/1737/)      |                             |
 
 # Tree Algorithms
 
-| Name                                                           | Solution |
-| -------------------------------------------------------------- | -------- |
-| [Subordinates](https://cses.fi/problemset/task/1674/)          |          |
-| [Tree Matching](https://cses.fi/problemset/task/1130/)         |          |
-| [Tree Diameter](https://cses.fi/problemset/task/1131/)         |          |
-| [Tree Distances I](https://cses.fi/problemset/task/1132/)      |          |
-| [Tree Distances II](https://cses.fi/problemset/task/1133/)     |          |
-| [Company Queries I](https://cses.fi/problemset/task/1687/)     |          |
-| [Company Queries II](https://cses.fi/problemset/task/1688/)    |          |
-| [Distance Queries](https://cses.fi/problemset/task/1135/)      |          |
-| [Counting Paths](https://cses.fi/problemset/task/1136/)        |          |
-| [Subtree Queries](https://cses.fi/problemset/task/1137/)       |          |
-| [Path Queries](https://cses.fi/problemset/task/1138/)          |          |
-| [Path Queries II](https://cses.fi/problemset/task/2134/)       |          |
-| [Distinct Colors](https://cses.fi/problemset/task/1139/)       |          |
-| [Finding a Centroid](https://cses.fi/problemset/task/2079/)    |          |
-| [Fixed-Length Paths I](https://cses.fi/problemset/task/2080/)  |          |
-| [Fixed-Length Paths II](https://cses.fi/problemset/task/2081/) |          |
+| Name                                                           | Solution                    |
+| -------------------------------------------------------------- | --------------------------- |
+| [Subordinates](https://cses.fi/problemset/task/1674/)          |                             |
+| [Tree Matching](https://cses.fi/problemset/task/1130/)         |                             |
+| [Tree Diameter](https://cses.fi/problemset/task/1131/)         | [1131.cpp](./sols/1131.cpp) |
+| [Tree Distances I](https://cses.fi/problemset/task/1132/)      | [1132.cpp](./sols/1132.cpp) |
+| [Tree Distances II](https://cses.fi/problemset/task/1133/)     | [1133.cpp](./sols/1133.cpp) |
+| [Company Queries I](https://cses.fi/problemset/task/1687/)     |                             |
+| [Company Queries II](https://cses.fi/problemset/task/1688/)    |                             |
+| [Distance Queries](https://cses.fi/problemset/task/1135/)      |                             |
+| [Counting Paths](https://cses.fi/problemset/task/1136/)        |                             |
+| [Subtree Queries](https://cses.fi/problemset/task/1137/)       |                             |
+| [Path Queries](https://cses.fi/problemset/task/1138/)          |                             |
+| [Path Queries II](https://cses.fi/problemset/task/2134/)       |                             |
+| [Distinct Colors](https://cses.fi/problemset/task/1139/)       |                             |
+| [Finding a Centroid](https://cses.fi/problemset/task/2079/)    |                             |
+| [Fixed-Length Paths I](https://cses.fi/problemset/task/2080/)  |                             |
+| [Fixed-Length Paths II](https://cses.fi/problemset/task/2081/) |                             |
 
 # Mathematics
 
@@ -253,10 +255,10 @@ My account on CSES: https://cses.fi/user/15196
 | Name                                                          | Solution                    |
 | ------------------------------------------------------------- | --------------------------- |
 | [Meet in the Middle](https://cses.fi/problemset/task/1628/)   | [1628.cpp](./sols/1628.cpp) |
-| [Hamming Distance](https://cses.fi/problemset/task/2136/)     |                             |
+| [Hamming Distance](https://cses.fi/problemset/task/2136/)     | [2136.cpp](./sols/2136.cpp) |
 | [Beautiful Subgrids](https://cses.fi/problemset/task/2137/)   | [2137.cpp](./sols/2137.cpp) |
-| [Reachable Nodes](https://cses.fi/problemset/task/2138/)      |                             |
-| [Reachability Queries](https://cses.fi/problemset/task/2143/) |                             |
+| [Reachable Nodes](https://cses.fi/problemset/task/2138/)      | [2138.cpp](./sols/2138.cpp) |
+| [Reachability Queries](https://cses.fi/problemset/task/2143/) | [2143.cpp](./sols/2143.cpp) |
 | [Cut and Paste](https://cses.fi/problemset/task/2072/)        |                             |
 | [Substring Reversals](https://cses.fi/problemset/task/2073/)  |                             |
 | [Reversals and Sums](https://cses.fi/problemset/task/2074/)   |                             |
@@ -289,7 +291,7 @@ My account on CSES: https://cses.fi/user/15196
 | [Strongly Connected Edges](https://cses.fi/problemset/task/2177/)      |                             |
 | [Even Outdegree Edges](https://cses.fi/problemset/task/2179/)          |                             |
 | [Multiplication Table](https://cses.fi/problemset/task/2422/)          |                             |
-| [Advertisement](https://cses.fi/problemset/task/1142/)                 |                             |
+| [Advertisement](https://cses.fi/problemset/task/1142/)                 | [1142.cpp](./sols/1142.cpp) |
 | [Special Substrings](https://cses.fi/problemset/task/2186/)            |                             |
 | [Permutation Inversions](https://cses.fi/problemset/task/2229/)        |                             |
 | [Maximum Xor Subarray](https://cses.fi/problemset/task/1655/)          |                             |
@@ -311,7 +313,7 @@ My account on CSES: https://cses.fi/user/15196
 | [Writing Numbers](https://cses.fi/problemset/task/1086/)               |                             |
 | [String Transform](https://cses.fi/problemset/task/1113/)              |                             |
 | [Letter Pair Move Game](https://cses.fi/problemset/task/2427/)         |                             |
-| [Maximum Building I](https://cses.fi/problemset/task/1147/)            |                             |
+| [Maximum Building I](https://cses.fi/problemset/task/1147/)            | [1147.cpp](./sols/1147.cpp) |
 | [Sorting Methods](https://cses.fi/problemset/task/1162/)               |                             |
 | [Cyclic Array](https://cses.fi/problemset/task/1191/)                  |                             |
 | [List of Sums](https://cses.fi/problemset/task/2414/)                  |                             |
@@ -343,7 +345,7 @@ My account on CSES: https://cses.fi/user/15196
 | [Visiting Cities](https://cses.fi/problemset/task/1203/)               |                             |
 | [Missing Coin Sum Queries](https://cses.fi/problemset/task/2184/)      |                             |
 | [Number Grid](https://cses.fi/problemset/task/1157/)                   |                             |
-| [Maximum Building II](https://cses.fi/problemset/task/1148/)           |                             |
+| [Maximum Building II](https://cses.fi/problemset/task/1148/)           | [1148.cpp](./sols/1148.cpp) |
 | [Filling Trominos](https://cses.fi/problemset/task/2423/)              |                             |
 | [Stick Divisions](https://cses.fi/problemset/task/1161/)               |                             |
 | [Coding Company](https://cses.fi/problemset/task/1665/)                |                             |
