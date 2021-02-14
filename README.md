@@ -82,17 +82,17 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [Grid Paths](https://cses.fi/problemset/task/1638/)             | [1638.cpp](./sols/1638.cpp) |
 | [Book Shop](https://cses.fi/problemset/task/1158/)              | [1158.cpp](./sols/1158.cpp) |
 | [Array Description](https://cses.fi/problemset/task/1746/)      | [1746.cpp](./sols/1746.cpp) |
-| [Counting Towers](https://cses.fi/problemset/task/2413/)        |                             |
-| [Edit Distance](https://cses.fi/problemset/task/1639/)          |                             |
-| [Rectangle Cutting](https://cses.fi/problemset/task/1744/)      |                             |
-| [Money Sums](https://cses.fi/problemset/task/1745/)             |                             |
-| [Removal Game](https://cses.fi/problemset/task/1097/)           |                             |
+| [Counting Towers](https://cses.fi/problemset/task/2413/)        | [2413.cpp](./sols/2413.cpp) |
+| [Edit Distance](https://cses.fi/problemset/task/1639/)          | [1639.cpp](./sols/1639.cpp) |
+| [Rectangle Cutting](https://cses.fi/problemset/task/1744/)      | [1744.cpp](./sols/1744.cpp) |
+| [Money Sums](https://cses.fi/problemset/task/1745/)             | [1745.cpp](./sols/1745.cpp) |
+| [Removal Game](https://cses.fi/problemset/task/1097/)           | [1097.cpp](./sols/1097.cpp) |
 | [Two Sets II](https://cses.fi/problemset/task/1093/)            | [1093.cpp](./sols/1093.cpp) |
 | [Increasing Subsequence](https://cses.fi/problemset/task/1145/) | [1145.cpp](./sols/1145.cpp) |
 | [Projects](https://cses.fi/problemset/task/1140/)               | [1140.cpp](./sols/1140.cpp) |
 | [Elevator Rides](https://cses.fi/problemset/task/1653/)         | [1653.cpp](./sols/1653.cpp) |
-| [Counting Tilings](https://cses.fi/problemset/task/2181/)       |                             |
-| [Counting Numbers](https://cses.fi/problemset/task/2220/)       |                             |
+| [Counting Tilings](https://cses.fi/problemset/task/2181/)       | [2181.cpp](./sols/2181.cpp) |
+| [Counting Numbers](https://cses.fi/problemset/task/2220/)       | [2220.cpp](./sols/2220.cpp) |
 
 ### Graph Algorithms
 
