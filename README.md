@@ -100,13 +100,13 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | ------------------------------------------------------------- | --------------------------- |
 | [Counting Rooms](https://cses.fi/problemset/task/1192/)       | [1192.cpp](./sols/1192.cpp) |
 | [Labyrinth](https://cses.fi/problemset/task/1193/)            | [1193.cpp](./sols/1193.cpp) |
-| [Building Roads](https://cses.fi/problemset/task/1666/)       |                             |
-| [Message Route](https://cses.fi/problemset/task/1667/)        |                             |
-| [Building Teams](https://cses.fi/problemset/task/1668/)       |                             |
-| [Round Trip](https://cses.fi/problemset/task/1669/)           |                             |
-| [Monsters](https://cses.fi/problemset/task/1194/)             |                             |
-| [Shortest Routes I](https://cses.fi/problemset/task/1671/)    |                             |
-| [Shortest Routes II](https://cses.fi/problemset/task/1672/)   |                             |
+| [Building Roads](https://cses.fi/problemset/task/1666/)       | [1666.cpp](./sols/1666.cpp) |
+| [Message Route](https://cses.fi/problemset/task/1667/)        | [1667.cpp](./sols/1667.cpp) |
+| [Building Teams](https://cses.fi/problemset/task/1668/)       | [1668.cpp](./sols/1668.cpp) |
+| [Round Trip](https://cses.fi/problemset/task/1669/)           | [1669.cpp](./sols/1669.cpp) |
+| [Monsters](https://cses.fi/problemset/task/1194/)             | [1194.cpp](./sols/1194.cpp) |
+| [Shortest Routes I](https://cses.fi/problemset/task/1671/)    | [1671.cpp](./sols/1671.cpp) |
+| [Shortest Routes II](https://cses.fi/problemset/task/1672/)   | [1672.cpp](./sols/1672.cpp) |
 | [High Score](https://cses.fi/problemset/task/1673/)           |                             |
 | [Flight Discount](https://cses.fi/problemset/task/1195/)      |                             |
 | [Cycle Finding](https://cses.fi/problemset/task/1197/)        |                             |
@@ -153,28 +153,28 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [Pizzeria Queries](https://cses.fi/problemset/task/2206/)              | [2206.cpp](./sols/2206.cpp) |
 | [Subarray Sum Queries](https://cses.fi/problemset/task/1190/)          | [1190.cpp](./sols/1190.cpp) |
 | [Distinct Values Queries](https://cses.fi/problemset/task/1734/)       | [1734.cpp](./sols/1734.cpp) |
-| [Increasing Array Queries](https://cses.fi/problemset/task/2416/)      |                             |
-| [Forest Queries II](https://cses.fi/problemset/task/1739/)             |                             |
+| [Increasing Array Queries](https://cses.fi/problemset/task/2416/)      | [2416.cpp](./sols/2416.cpp) |
+| [Forest Queries II](https://cses.fi/problemset/task/1739/)             | [1739.cpp](./sols/1739.cpp) |
 | [Range Updates and Sums](https://cses.fi/problemset/task/1735/)        | [1735.cpp](./sols/1735.cpp) |
 | [Polynomial Queries](https://cses.fi/problemset/task/1736/)            | [1736.cpp](./sols/1736.cpp) |
-| [Range Queries and Copies](https://cses.fi/problemset/task/1737/)      |                             |
+| [Range Queries and Copies](https://cses.fi/problemset/task/1737/)      | [1737.cpp](./sols/1737.cpp) |
 
 # Tree Algorithms
 
 | Name                                                           | Solution                    |
 | -------------------------------------------------------------- | --------------------------- |
-| [Subordinates](https://cses.fi/problemset/task/1674/)          |                             |
-| [Tree Matching](https://cses.fi/problemset/task/1130/)         |                             |
+| [Subordinates](https://cses.fi/problemset/task/1674/)          | [1674.cpp](./sols/1674.cpp) |
+| [Tree Matching](https://cses.fi/problemset/task/1130/)         | [1130.cpp](./sols/1130.cpp) |
 | [Tree Diameter](https://cses.fi/problemset/task/1131/)         | [1131.cpp](./sols/1131.cpp) |
 | [Tree Distances I](https://cses.fi/problemset/task/1132/)      | [1132.cpp](./sols/1132.cpp) |
 | [Tree Distances II](https://cses.fi/problemset/task/1133/)     | [1133.cpp](./sols/1133.cpp) |
-| [Company Queries I](https://cses.fi/problemset/task/1687/)     |                             |
-| [Company Queries II](https://cses.fi/problemset/task/1688/)    |                             |
-| [Distance Queries](https://cses.fi/problemset/task/1135/)      |                             |
-| [Counting Paths](https://cses.fi/problemset/task/1136/)        |                             |
-| [Subtree Queries](https://cses.fi/problemset/task/1137/)       |                             |
-| [Path Queries](https://cses.fi/problemset/task/1138/)          |                             |
-| [Path Queries II](https://cses.fi/problemset/task/2134/)       |                             |
+| [Company Queries I](https://cses.fi/problemset/task/1687/)     | [1687.cpp](./sols/1687.cpp) |
+| [Company Queries II](https://cses.fi/problemset/task/1688/)    | [1688.cpp](./sols/1688.cpp) |
+| [Distance Queries](https://cses.fi/problemset/task/1135/)      | [1135.cpp](./sols/1135.cpp) |
+| [Counting Paths](https://cses.fi/problemset/task/1136/)        | [1136.cpp](./sols/1136.cpp) |
+| [Subtree Queries](https://cses.fi/problemset/task/1137/)       | [1137.cpp](./sols/1137.cpp) |
+| [Path Queries](https://cses.fi/problemset/task/1138/)          | [1138.cpp](./sols/1138.cpp) |
+| [Path Queries II](https://cses.fi/problemset/task/2134/)       | [2134.cpp](./sols/2134.cpp) |
 | [Distinct Colors](https://cses.fi/problemset/task/1139/)       |                             |
 | [Finding a Centroid](https://cses.fi/problemset/task/2079/)    |                             |
 | [Fixed-Length Paths I](https://cses.fi/problemset/task/2080/)  |                             |
@@ -316,7 +316,7 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [Maximum Building I](https://cses.fi/problemset/task/1147/)            | [1147.cpp](./sols/1147.cpp) |
 | [Sorting Methods](https://cses.fi/problemset/task/1162/)               |                             |
 | [Cyclic Array](https://cses.fi/problemset/task/1191/)                  |                             |
-| [List of Sums](https://cses.fi/problemset/task/2414/)                  |                             |
+| [List of Sums](https://cses.fi/problemset/task/2414/)                  | [2414.cpp](./sols/2414.cpp) |
 | [Increasing Array II](https://cses.fi/problemset/task/2132/)           |                             |
 | [Food Division](https://cses.fi/problemset/task/1189/)                 |                             |
 | [Bit Problem](https://cses.fi/problemset/task/1654/)                   |                             |
