@@ -112,17 +112,17 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [Cycle Finding](https://cses.fi/problemset/task/1197/)        |                             |
 | [Flight Routes](https://cses.fi/problemset/task/1196/)        |                             |
 | [Round Trip II](https://cses.fi/problemset/task/1678/)        | [1678.cpp](./sols/1678.cpp) |
-| [Course Schedule](https://cses.fi/problemset/task/1679/)      |                             |
+| [Course Schedule](https://cses.fi/problemset/task/1679/)      | [1679.cpp](./sols/1679.cpp) |
 | [Longest Flight Route](https://cses.fi/problemset/task/1680/) | [1680.cpp](./sols/1680.cpp) |
-| [Game Routes](https://cses.fi/problemset/task/1681/)          |                             |
-| [Investigation](https://cses.fi/problemset/task/1202/)        |                             |
-| [Planets Queries I](https://cses.fi/problemset/task/1750/)    |                             |
+| [Game Routes](https://cses.fi/problemset/task/1681/)          | [1681.cpp](./sols/1681.cpp) |
+| [Investigation](https://cses.fi/problemset/task/1202/)        | [1202.cpp](./sols/1202.cpp) |
+| [Planets Queries I](https://cses.fi/problemset/task/1750/)    | [1750.cpp](./sols/1750.cpp) |
 | [Planets Queries II](https://cses.fi/problemset/task/1160/)   |                             |
 | [Planets Cycles](https://cses.fi/problemset/task/1751/)       |                             |
-| [Road Reparation](https://cses.fi/problemset/task/1675/)      |                             |
-| [Road Construction](https://cses.fi/problemset/task/1676/)    |                             |
-| [Flight Routes Check](https://cses.fi/problemset/task/1682/)  |                             |
-| [Planets and Kingdoms](https://cses.fi/problemset/task/1683/) |                             |
+| [Road Reparation](https://cses.fi/problemset/task/1675/)      | [1675.cpp](./sols/1675.cpp) |
+| [Road Construction](https://cses.fi/problemset/task/1676/)    | [1676.cpp](./sols/1676.cpp) |
+| [Flight Routes Check](https://cses.fi/problemset/task/1682/)  | [1682.cpp](./sols/1682.cpp) |
+| [Planets and Kingdoms](https://cses.fi/problemset/task/1683/) | [1683.cpp](./sols/1683.cpp) |
 | [Giant Pizza](https://cses.fi/problemset/task/1684/)          |                             |
 | [Coin Collector](https://cses.fi/problemset/task/1686/)       |                             |
 | [Mail Delivery](https://cses.fi/problemset/task/1691/)        |                             |
@@ -197,17 +197,17 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [Creating Strings II](https://cses.fi/problemset/task/1715/)    | [1715.cpp](./sols/1715.cpp) |
 | [Distributing Apples](https://cses.fi/problemset/task/1716/)    | [1716.cpp](./sols/1716.cpp) |
 | [Christmas Party](https://cses.fi/problemset/task/1717/)        | [1717.cpp](./sols/1717.cpp) |
-| [Bracket Sequences I](https://cses.fi/problemset/task/2064/)    |                             |
-| [Bracket Sequences II](https://cses.fi/problemset/task/2187/)   |                             |
+| [Bracket Sequences I](https://cses.fi/problemset/task/2064/)    | [2064.cpp](./sols/2064.cpp) |
+| [Bracket Sequences II](https://cses.fi/problemset/task/2187/)   | [2187.cpp](./sols/2187.cpp) |
 | [Counting Necklaces](https://cses.fi/problemset/task/2209/)     |                             |
 | [Counting Grids](https://cses.fi/problemset/task/2210/)         |                             |
 | [Fibonacci Numbers](https://cses.fi/problemset/task/1722/)      | [1722.cpp](./sols/1722.cpp) |
 | [Throwing Dice](https://cses.fi/problemset/task/1096/)          | [1096.cpp](./sols/1096.cpp) |
 | [Graph Paths I](https://cses.fi/problemset/task/1723/)          |                             |
 | [Graph Paths II](https://cses.fi/problemset/task/1724/)         |                             |
-| [Dice Probability](https://cses.fi/problemset/task/1725/)       |                             |
+| [Dice Probability](https://cses.fi/problemset/task/1725/)       | [1725.cpp](./sols/1725.cpp) |
 | [Moving Robots](https://cses.fi/problemset/task/1726/)          |                             |
-| [Candy Lottery](https://cses.fi/problemset/task/1727/)          |                             |
+| [Candy Lottery](https://cses.fi/problemset/task/1727/)          | [1727.cpp](./sols/1727.cpp) |
 | [Inversion Probability](https://cses.fi/problemset/task/1728/)  |                             |
 | [Stick Game](https://cses.fi/problemset/task/1729/)             |                             |
 | [Nim Game I](https://cses.fi/problemset/task/1730/)             |                             |
@@ -224,19 +224,19 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [String Matching](https://cses.fi/problemset/task/1753/)        | [1753.cpp](./sols/1753.cpp) |
 | [Finding Borders](https://cses.fi/problemset/task/1732/)        | [1732.cpp](./sols/1732.cpp) |
 | [Finding Periods](https://cses.fi/problemset/task/1733/)        | [1733.cpp](./sols/1733.cpp) |
-| [Minimal Rotation](https://cses.fi/problemset/task/1110/)       |                             |
-| [Longest Palindrome](https://cses.fi/problemset/task/1111/)     |                             |
-| [Required Substring](https://cses.fi/problemset/task/1112/)     |                             |
-| [Palindrome Queries](https://cses.fi/problemset/task/2420/)     |                             |
+| [Minimal Rotation](https://cses.fi/problemset/task/1110/)       | [1110.cpp](./sols/1110.cpp) |
+| [Longest Palindrome](https://cses.fi/problemset/task/1111/)     | [1111.cpp](./sols/1111.cpp) |
+| [Required Substring](https://cses.fi/problemset/task/1112/)     | [1112.cpp](./sols/1112.cpp) |
+| [Palindrome Queries](https://cses.fi/problemset/task/2420/)     | [2420.cpp](./sols/2420.cpp) |
 | [Finding Patterns](https://cses.fi/problemset/task/2102/)       | [2102.cpp](./sols/2102.cpp) |
-| [Counting Patterns](https://cses.fi/problemset/task/2103/)      |                             |
-| [Pattern Positions](https://cses.fi/problemset/task/2104/)      |                             |
-| [Distinct Substrings](https://cses.fi/problemset/task/2105/)    |                             |
-| [Repeating Substring](https://cses.fi/problemset/task/2106/)    |                             |
-| [String Functions](https://cses.fi/problemset/task/2107/)       |                             |
-| [Substring Order I](https://cses.fi/problemset/task/2108/)      |                             |
-| [Substring Order II](https://cses.fi/problemset/task/2109/)     |                             |
-| [Substring Distribution](https://cses.fi/problemset/task/2110/) |                             |
+| [Counting Patterns](https://cses.fi/problemset/task/2103/)      | [2103.cpp](./sols/2103.cpp) |
+| [Pattern Positions](https://cses.fi/problemset/task/2104/)      | [2104.cpp](./sols/2104.cpp) |
+| [Distinct Substrings](https://cses.fi/problemset/task/2105/)    | [2105.cpp](./sols/2105.cpp) |
+| [Repeating Substring](https://cses.fi/problemset/task/2106/)    | [2106.cpp](./sols/2106.cpp) |
+| [String Functions](https://cses.fi/problemset/task/2107/)       | [2107.cpp](./sols/2107.cpp) |
+| [Substring Order I](https://cses.fi/problemset/task/2108/)      | [2108.cpp](./sols/2108.cpp) |
+| [Substring Order II](https://cses.fi/problemset/task/2109/)     | [2109.cpp](./sols/2109.cpp) |
+| [Substring Distribution](https://cses.fi/problemset/task/2110/) | [2110.cpp](./sols/2110.cpp) |
 
 ### Geometry
 
