@@ -2,46 +2,41 @@
 using namespace std;
 const int N = 2e5 + 5;
 
-struct Node {
-  int len, link, cnt, next[26];
-};
-
-int k, sz, last;
+int k, sz, last, len[N], link[N], cnt[N], nxt[N][26];
 string s;
-Node sa[N];
 vector<pair<int, int>> order;
 
 void sa_init() {
-  sa[0].len = 0;
-  sa[0].link = -1;
+  len[0] = 0;
+  link[0] = -1;
   sz = 1; last = 0;
 }
 
 void sa_extend(int c) {
   int cur = sz++, p;
-  sa[cur].len = sa[last].len + 1;
-  sa[cur].cnt = 1;
-  order.emplace_back(sa[cur].len, cur);
-  for (p = last; p != -1 && !sa[p].next[c]; p = sa[p].link) {
-    sa[p].next[c] = cur;
+  len[cur] = len[last] + 1;
+  cnt[cur] = 1;
+  order.emplace_back(len[cur], cur);
+  for (p = last; p != -1 && !nxt[p][c]; p = link[p]) {
+    nxt[p][c] = cur;
   }
   if (p == -1) {
-    sa[cur].link = 0;
+    link[cur] = 0;
   } else {
-    int q = sa[p].next[c];
-    if (sa[p].len + 1 == sa[q].len) {
-      sa[cur].link = q;
+    int q = nxt[p][c];
+    if (len[p] + 1 == len[q]) {
+      link[cur] = q;
     } else {
       int clone = sz++;
-      sa[clone].len = sa[p].len + 1;
-      sa[clone].link = sa[q].link;
-      sa[clone].cnt = 0;
-      memcpy(sa[clone].next, sa[q].next, sizeof(sa[q].next));
-      order.emplace_back(sa[clone].len, clone);
-      for (; p != -1 && sa[p].next[c] == q; p = sa[p].link) {
-        sa[p].next[c] = clone;
+      len[clone] = len[p] + 1;
+      link[clone] = link[q];
+      cnt[clone] = 0;
+      memcpy(nxt[clone], nxt[q], sizeof(nxt[q]));
+      order.emplace_back(len[clone], clone);
+      for (; p != -1 && nxt[p][c] == q; p = link[p]) {
+        nxt[p][c] = clone;
       }
-      sa[cur].link = sa[q].link = clone;
+      link[cur] = link[q] = clone;
     }
   }
   last = cur;
@@ -56,7 +51,7 @@ int main() {
   }
   sort(order.begin(), order.end(), greater<pair<int, int>>());
   for (auto [len, p]: order) {
-    sa[sa[p].link].cnt += sa[p].cnt;
+    cnt[link[p]] += cnt[p];
   }
   while (k--) {
     string p; cin >> p;
@@ -64,13 +59,13 @@ int main() {
     bool found = true;
     for (char c: p) {
       int cc = c - 'a';
-      if (!sa[cur].next[cc]) {
+      if (!nxt[cur][cc]) {
         found = false;
         break;
       }
-      cur = sa[cur].next[cc];
+      cur = nxt[cur][cc];
     }
-    cout << (found ? sa[cur].cnt : 0) << "\n";
+    cout << (found ? cnt[cur] : 0) << "\n";
   }
   return 0;
 }

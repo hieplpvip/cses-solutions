@@ -3,43 +3,27 @@
 using namespace std;
 const int N = 5e4 + 5;
 
-int n, nn, m, q, par[N];
-int Time, num[N], low[N];
+int n, nn, m, q, Time, num[N], low[N], cmp[N];
 vector<int> s, adj[N], nadj[N];
-unordered_map<int, int> mp;
 bool vis[N];
 bitset<N> f[N];
 
-int root(int v) {
-  return (par[v] < 0) ? v : (par[v] = root(par[v]));
-}
-
-void join(int x, int y) {
-  if ((x = root(x)) == (y = root(y))) return;
-  if (par[x] > par[y]) swap(x, y);
-  par[x] += par[y];
-  par[y] = x;
-}
-
-void tarjan(int u) {
+int tarjan(int u) {
   num[u] = low[u] = ++Time;
   s.emplace_back(u);
   for (int v: adj[u]) {
-    if (num[v]) {
-      low[u] = min(low[u], num[v]);
-    } else {
-      tarjan(v);
-      low[u] = min(low[u], low[v]);
+    if (!cmp[v]) {
+      low[u] = min(low[u], num[v] ?: tarjan(v));
     }
   }
   if (low[u] == num[u]) {
-    int v;
+    int v; ++nn;
     do {
       v = s.back(); s.pop_back();
-      join(u, v);
-      num[v] = low[v] = 1e9;
+      cmp[v] = nn;
     } while (v != u);
   }
+  return low[u];
 }
 
 void dfs(int u) {
@@ -58,19 +42,13 @@ int main() {
     cin >> u >> v;
     adj[u].emplace_back(v);
   }
-  fill(par + 1, par + 1 + n, -1);
   for (int i = 1; i <= n; ++i) {
     if (!num[i]) tarjan(i);
   }
-  for (int i = 1; i <= n; ++i) {
-    if (par[i] < 0) {
-      mp[i] = ++nn;
-    }
-  }
   for (int u = 1; u <= n; ++u) {
     for (int v: adj[u]) {
-      if (root(u) != root(v)) {
-        nadj[mp[root(u)]].emplace_back(mp[root(v)]);
+      if (cmp[u] != cmp[v]) {
+        nadj[cmp[u]].emplace_back(cmp[v]);
       }
     }
   }
@@ -83,7 +61,7 @@ int main() {
   }
   while (q--) {
     int u, v; cin >> u >> v;
-    u = mp[root(u)]; v = mp[root(v)];
+    u = cmp[u]; v = cmp[v];
     cout << (u == v || f[u].test(v) ? "YES\n" : "NO\n");
   }
   return 0;

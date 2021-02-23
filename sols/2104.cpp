@@ -2,41 +2,36 @@
 using namespace std;
 const int N = 2e5 + 5;
 
-struct Node {
-  int len, link, firstpos, next[26];
-};
-
-int sz, last;
-Node sa[N];
+int sz, last, len[N], link[N], firstpos[N], nxt[N][26];
 
 void sa_init() {
-  sa[0].len = 0;
-  sa[0].link = -1;
+  len[0] = 0;
+  link[0] = -1;
   sz = 1; last = 0;
 }
 
 void sa_extend(int c) {
   int cur = sz++, p;
-  sa[cur].len = sa[cur].firstpos = sa[last].len + 1;
-  for (p = last; p != -1 && !sa[p].next[c]; p = sa[p].link) {
-    sa[p].next[c] = cur;
+  len[cur] = firstpos[cur] = len[last] + 1;
+  for (p = last; p != -1 && !nxt[p][c]; p = link[p]) {
+    nxt[p][c] = cur;
   }
   if (p == -1) {
-    sa[cur].link = 0;
+    link[cur] = 0;
   } else {
-    int q = sa[p].next[c];
-    if (sa[p].len + 1 == sa[q].len) {
-      sa[cur].link = q;
+    int q = nxt[p][c];
+    if (len[p] + 1 == len[q]) {
+      link[cur] = q;
     } else {
       int clone = sz++;
-      sa[clone].len = sa[p].len + 1;
-      sa[clone].link = sa[q].link;
-      sa[clone].firstpos = sa[q].firstpos;
-      memcpy(sa[clone].next, sa[q].next, sizeof(sa[q].next));
-      for (; p != -1 && sa[p].next[c] == q; p = sa[p].link) {
-        sa[p].next[c] = clone;
+      len[clone] = len[p] + 1;
+      link[clone] = link[q];
+      firstpos[clone] = firstpos[q];
+      memcpy(nxt[clone], nxt[q], sizeof(nxt[q]));
+      for (; p != -1 && nxt[p][c] == q; p = link[p]) {
+        nxt[p][c] = clone;
       }
-      sa[cur].link = sa[q].link = clone;
+      link[cur] = link[q] = clone;
     }
   }
   last = cur;
@@ -56,13 +51,13 @@ int main() {
     int cur = 0;
     for (char c: p) {
       int cc = c - 'a';
-      if (!sa[cur].next[cc]) {
+      if (!nxt[cur][cc]) {
         found = false;
         break;
       }
-      cur = sa[cur].next[cc];
+      cur = nxt[cur][cc];
     }
-    cout << (found ? (sa[cur].firstpos - (int)p.size() + 1) : -1) << "\n";
+    cout << (found ? (firstpos[cur] - (int)p.size() + 1) : -1) << "\n";
   }
   return 0;
 }
