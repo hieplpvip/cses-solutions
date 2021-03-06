@@ -117,8 +117,8 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [Game Routes](https://cses.fi/problemset/task/1681/)          | [1681.cpp](./sols/1681.cpp) |
 | [Investigation](https://cses.fi/problemset/task/1202/)        | [1202.cpp](./sols/1202.cpp) |
 | [Planets Queries I](https://cses.fi/problemset/task/1750/)    | [1750.cpp](./sols/1750.cpp) |
-| [Planets Queries II](https://cses.fi/problemset/task/1160/)   |                             |
-| [Planets Cycles](https://cses.fi/problemset/task/1751/)       |                             |
+| [Planets Queries II](https://cses.fi/problemset/task/1160/)   | [1160.cpp](./sols/1160.cpp) |
+| [Planets Cycles](https://cses.fi/problemset/task/1751/)       | [1751.cpp](./sols/1751.cpp) |
 | [Road Reparation](https://cses.fi/problemset/task/1675/)      | [1675.cpp](./sols/1675.cpp) |
 | [Road Construction](https://cses.fi/problemset/task/1676/)    | [1676.cpp](./sols/1676.cpp) |
 | [Flight Routes Check](https://cses.fi/problemset/task/1682/)  | [1682.cpp](./sols/1682.cpp) |
@@ -177,8 +177,8 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [Path Queries II](https://cses.fi/problemset/task/2134/)       | [2134.cpp](./sols/2134.cpp) |
 | [Distinct Colors](https://cses.fi/problemset/task/1139/)       | [1139.cpp](./sols/1139.cpp) |
 | [Finding a Centroid](https://cses.fi/problemset/task/2079/)    | [2079.cpp](./sols/2079.cpp) |
-| [Fixed-Length Paths I](https://cses.fi/problemset/task/2080/)  |                             |
-| [Fixed-Length Paths II](https://cses.fi/problemset/task/2081/) |                             |
+| [Fixed-Length Paths I](https://cses.fi/problemset/task/2080/)  | [2080.cpp](./sols/2080.cpp) |
+| [Fixed-Length Paths II](https://cses.fi/problemset/task/2081/) | [2081.cpp](./sols/2081.cpp) |
 
 # Mathematics
 
@@ -210,11 +210,11 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [Candy Lottery](https://cses.fi/problemset/task/1727/)          | [1727.cpp](./sols/1727.cpp) |
 | [Inversion Probability](https://cses.fi/problemset/task/1728/)  | [1728.cpp](./sols/1728.cpp) |
 | [Stick Game](https://cses.fi/problemset/task/1729/)             | [1729.cpp](./sols/1729.cpp) |
-| [Nim Game I](https://cses.fi/problemset/task/1730/)             |                             |
-| [Nim Game II](https://cses.fi/problemset/task/1098/)            |                             |
-| [Stair Game](https://cses.fi/problemset/task/1099/)             |                             |
-| [Grundy's Game](https://cses.fi/problemset/task/2207/)          |                             |
-| [Another Game](https://cses.fi/problemset/task/2208/)           |                             |
+| [Nim Game I](https://cses.fi/problemset/task/1730/)             | [1730.cpp](./sols/1730.cpp) |
+| [Nim Game II](https://cses.fi/problemset/task/1098/)            | [1098.cpp](./sols/1098.cpp) |
+| [Stair Game](https://cses.fi/problemset/task/1099/)             | [1099.cpp](./sols/1099.cpp) |
+| [Grundy's Game](https://cses.fi/problemset/task/2207/)          | [2207.cpp](./sols/2207.cpp) |
+| [Another Game](https://cses.fi/problemset/task/2208/)           | [2208.cpp](./sols/2208.cpp) |
 
 ### String Algorithms
 
@@ -265,8 +265,8 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [Necessary Roads](https://cses.fi/problemset/task/2076/)      | [2076.cpp](./sols/2076.cpp) |
 | [Necessary Cities](https://cses.fi/problemset/task/2077/)     | [2077.cpp](./sols/2077.cpp) |
 | [Eulerian Subgraphs](https://cses.fi/problemset/task/2078/)   |                             |
-| [Monster Game I](https://cses.fi/problemset/task/2084/)       |                             |
-| [Monster Game II](https://cses.fi/problemset/task/2085/)      |                             |
+| [Monster Game I](https://cses.fi/problemset/task/2084/)       | [2084.cpp](./sols/2084.cpp) |
+| [Monster Game II](https://cses.fi/problemset/task/2085/)      | [2085.cpp](./sols/2085.cpp) |
 | [Subarray Squares](https://cses.fi/problemset/task/2086/)     | [2086.cpp](./sols/2086.cpp) |
 | [Houses and Schools](https://cses.fi/problemset/task/2087/)   |                             |
 | [Knuth Division](https://cses.fi/problemset/task/2088/)       |                             |
@@ -276,7 +276,7 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [New Roads Queries](https://cses.fi/problemset/task/2101/)    | [2101.cpp](./sols/2101.cpp) |
 | [Dynamic Connectivity](https://cses.fi/problemset/task/2133/) | [2133.cpp](./sols/2133.cpp) |
 | [Parcel Delivery](https://cses.fi/problemset/task/2121/)      | [2121.cpp](./sols/2121.cpp) |
-| [Task Assignment](https://cses.fi/problemset/task/2129/)      |                             |
+| [Task Assignment](https://cses.fi/problemset/task/2129/)      | [2129.cpp](./sols/2129.cpp) |
 | [Distinct Routes II](https://cses.fi/problemset/task/2130/)   | [2130.cpp](./sols/2130.cpp) |
 
 ### Additional Problems
@@ -289,33 +289,33 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [Prüfer Code](https://cses.fi/problemset/task/1134/)                   | [1134.cpp](./sols/1134.cpp) |
 | [Acyclic Graph Edges](https://cses.fi/problemset/task/1756/)           | [1756.cpp](./sols/1756.cpp) |
 | [Strongly Connected Edges](https://cses.fi/problemset/task/2177/)      | [2177.cpp](./sols/2177.cpp) |
-| [Even Outdegree Edges](https://cses.fi/problemset/task/2179/)          |                             |
+| [Even Outdegree Edges](https://cses.fi/problemset/task/2179/)          | [2179.cpp](./sols/2179.cpp) |
 | [Multiplication Table](https://cses.fi/problemset/task/2422/)          | [2422.cpp](./sols/2422.cpp) |
 | [Advertisement](https://cses.fi/problemset/task/1142/)                 | [1142.cpp](./sols/1142.cpp) |
-| [Special Substrings](https://cses.fi/problemset/task/2186/)            |                             |
-| [Permutation Inversions](https://cses.fi/problemset/task/2229/)        |                             |
+| [Special Substrings](https://cses.fi/problemset/task/2186/)            | [2186.cpp](./sols/2186.cpp) |
+| [Permutation Inversions](https://cses.fi/problemset/task/2229/)        | [2229.cpp](./sols/2229.cpp) |
 | [Maximum Xor Subarray](https://cses.fi/problemset/task/1655/)          | [1655.cpp](./sols/1655.cpp) |
-| [Movie Festival Queries](https://cses.fi/problemset/task/1664/)        |                             |
+| [Movie Festival Queries](https://cses.fi/problemset/task/1664/)        | [1664.cpp](./sols/1664.cpp) |
 | [Chess Tournament](https://cses.fi/problemset/task/1697/)              | [1697.cpp](./sols/1697.cpp) |
 | [Tree Traversals](https://cses.fi/problemset/task/1702/)               |                             |
 | [Network Renovation](https://cses.fi/problemset/task/1704/)            |                             |
 | [Graph Girth](https://cses.fi/problemset/task/1707/)                   |                             |
 | [Intersection Points](https://cses.fi/problemset/task/1740/)           | [1740.cpp](./sols/1740.cpp) |
-| [Inverse Inversions](https://cses.fi/problemset/task/2214/)            |                             |
+| [Inverse Inversions](https://cses.fi/problemset/task/2214/)            | [2214.cpp](./sols/2214.cpp) |
 | [Monotone Subsequences](https://cses.fi/problemset/task/2215/)         |                             |
-| [String Reorder](https://cses.fi/problemset/task/1743/)                |                             |
+| [String Reorder](https://cses.fi/problemset/task/1743/)                | [1743.cpp](./sols/1743.cpp) |
 | [Stack Weights](https://cses.fi/problemset/task/2425/)                 |                             |
 | [Pyramid Array](https://cses.fi/problemset/task/1747/)                 | [1747.cpp](./sols/1747.cpp) |
 | [Increasing Subsequence II](https://cses.fi/problemset/task/1748/)     | [1748.cpp](./sols/1748.cpp) |
 | [String Removals](https://cses.fi/problemset/task/1149/)               |                             |
 | [Bit Inversions](https://cses.fi/problemset/task/1188/)                | [1188.cpp](./sols/1188.cpp) |
-| [Xor Pyramid](https://cses.fi/problemset/task/2419/)                   |                             |
+| [Xor Pyramid](https://cses.fi/problemset/task/2419/)                   | [2419.cpp](./sols/2419.cpp) |
 | [Writing Numbers](https://cses.fi/problemset/task/1086/)               | [1086.cpp](./sols/1086.cpp) |
 | [String Transform](https://cses.fi/problemset/task/1113/)              | [1113.cpp](./sols/1113.cpp) |
 | [Letter Pair Move Game](https://cses.fi/problemset/task/2427/)         |                             |
 | [Maximum Building I](https://cses.fi/problemset/task/1147/)            | [1147.cpp](./sols/1147.cpp) |
 | [Sorting Methods](https://cses.fi/problemset/task/1162/)               |                             |
-| [Cyclic Array](https://cses.fi/problemset/task/1191/)                  |                             |
+| [Cyclic Array](https://cses.fi/problemset/task/1191/)                  | [1191.cpp](./sols/1191.cpp) |
 | [List of Sums](https://cses.fi/problemset/task/2414/)                  | [2414.cpp](./sols/2414.cpp) |
 | [Increasing Array II](https://cses.fi/problemset/task/2132/)           |                             |
 | [Food Division](https://cses.fi/problemset/task/1189/)                 |                             |
