@@ -135,7 +135,7 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [School Dance](https://cses.fi/problemset/task/1696/)         | [1696.cpp](./sols/1696.cpp) |
 | [Distinct Routes](https://cses.fi/problemset/task/1711/)      | [1711.cpp](./sols/1711.cpp) |
 
-# Range Queries
+### Range Queries
 
 | Name                                                                   | Solution                    |
 | ---------------------------------------------------------------------- | --------------------------- |
@@ -159,7 +159,7 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [Polynomial Queries](https://cses.fi/problemset/task/1736/)            | [1736.cpp](./sols/1736.cpp) |
 | [Range Queries and Copies](https://cses.fi/problemset/task/1737/)      | [1737.cpp](./sols/1737.cpp) |
 
-# Tree Algorithms
+### Tree Algorithms
 
 | Name                                                           | Solution                    |
 | -------------------------------------------------------------- | --------------------------- |
@@ -180,7 +180,7 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [Fixed-Length Paths I](https://cses.fi/problemset/task/2080/)  | [2080.cpp](./sols/2080.cpp) |
 | [Fixed-Length Paths II](https://cses.fi/problemset/task/2081/) | [2081.cpp](./sols/2081.cpp) |
 
-# Mathematics
+### Mathematics
 
 | Name                                                            | Solution                    |
 | --------------------------------------------------------------- | --------------------------- |
