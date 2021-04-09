@@ -335,7 +335,7 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [Counting Bishops](https://cses.fi/problemset/task/2176/)              | [2176.cpp](./sols/2176.cpp) |
 | [Grid Puzzle I](https://cses.fi/problemset/task/2432/)                 | [2432.cpp](./sols/2432.cpp) |
 | [Grid Puzzle II](https://cses.fi/problemset/task/2131/)                | [2131.cpp](./sols/2131.cpp) |
-| [Empty String](https://cses.fi/problemset/task/1080/)                  |                             |
+| [Empty String](https://cses.fi/problemset/task/1080/)                  | [1080.cpp](./sols/1080.cpp) |
 | [Grid Paths](https://cses.fi/problemset/task/1078/)                    |                             |
 | [Bit Substrings](https://cses.fi/problemset/task/2115/)                |                             |
 | [Reversal Sorting](https://cses.fi/problemset/task/2075/)              |                             |
