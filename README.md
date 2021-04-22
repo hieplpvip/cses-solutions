@@ -314,7 +314,7 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [String Transform](https://cses.fi/problemset/task/1113/)              | [1113.cpp](./sols/1113.cpp) |
 | [Letter Pair Move Game](https://cses.fi/problemset/task/2427/)         |                             |
 | [Maximum Building I](https://cses.fi/problemset/task/1147/)            | [1147.cpp](./sols/1147.cpp) |
-| [Sorting Methods](https://cses.fi/problemset/task/1162/)               |                             |
+| [Sorting Methods](https://cses.fi/problemset/task/1162/)               | [1162.cpp](./sols/1162.cpp) |
 | [Cyclic Array](https://cses.fi/problemset/task/1191/)                  | [1191.cpp](./sols/1191.cpp) |
 | [List of Sums](https://cses.fi/problemset/task/2414/)                  | [2414.cpp](./sols/2414.cpp) |
 | [Increasing Array II](https://cses.fi/problemset/task/2132/)           |                             |
