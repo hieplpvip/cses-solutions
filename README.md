@@ -320,7 +320,7 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [Increasing Array II](https://cses.fi/problemset/task/2132/)           |                             |
 | [Food Division](https://cses.fi/problemset/task/1189/)                 |                             |
 | [Bit Problem](https://cses.fi/problemset/task/1654/)                   | [1654.cpp](./sols/1654.cpp) |
-| [Swap Round Sorting](https://cses.fi/problemset/task/1698/)            |                             |
+| [Swap Round Sorting](https://cses.fi/problemset/task/1698/)            | [1698.cpp](./sols/1698.cpp) |
 | [Binary Subsequences](https://cses.fi/problemset/task/2430/)           |                             |
 | [Tree Isomorphism I](https://cses.fi/problemset/task/1700/)            | [1700.cpp](./sols/1700.cpp) |
 | [Counting Sequences](https://cses.fi/problemset/task/2228/)            | [2228.cpp](./sols/2228.cpp) |
