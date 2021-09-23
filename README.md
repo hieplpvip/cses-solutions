@@ -336,7 +336,7 @@ Feel free to ask (by creating issues) if you don't understand my solutions.
 | [Grid Puzzle I](https://cses.fi/problemset/task/2432/)                 | [2432.cpp](./cpp/2432.cpp) |
 | [Grid Puzzle II](https://cses.fi/problemset/task/2131/)                | [2131.cpp](./cpp/2131.cpp) |
 | [Empty String](https://cses.fi/problemset/task/1080/)                  | [1080.cpp](./cpp/1080.cpp) |
-| [Grid Paths](https://cses.fi/problemset/task/1078/)                    |                            |
+| [Grid Paths](https://cses.fi/problemset/task/1078/)                    | [1078.cpp](./cpp/1078.cpp) |
 | [Bit Substrings](https://cses.fi/problemset/task/2115/)                |                            |
 | [Reversal Sorting](https://cses.fi/problemset/task/2075/)              |                            |
 | [Counting Reorders](https://cses.fi/problemset/task/2421/)             |                            |
